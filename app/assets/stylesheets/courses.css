@@ -1,0 +1,27 @@
+.bg-black-dark {
+    background: #000;
+  }
+
+.mg-sidbar {
+    margin-top: 70px;
+  }
+
+footer {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    }
+  
+  .bg-black-dark {
+      background: #000;
+    }
+  
+  .mg-sidbar {
+      margin-top: 70px;
+    }
+
+    
+    
